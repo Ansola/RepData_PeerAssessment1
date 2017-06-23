@@ -23,7 +23,7 @@ steps_per_day <- aggregate(steps ~ date, data = activity, FUN = sum)
 barplot(steps_per_day$steps, names.arg = steps_per_day$date)
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
+![](PA1_template_files/figure-html/unnamed-chunk-2-1.png?raw=true)<!-- -->
 
 ### 3. Mean and median total number of steps taken per day
 
