@@ -175,5 +175,5 @@ xyplot(steps ~ interval | day_type, data = steps_by_interval2,
        xlab = "Interval", ylab = "Avg. Steps by Interval")
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
+![](https://github.com/Ansola/RepData_PeerAssessment1/blob/master/unnamed-chunk-12-1.png?raw=true)<!-- -->
 
