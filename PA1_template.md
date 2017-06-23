@@ -61,7 +61,7 @@ plot(steps_by_interval$interval, steps_by_interval$steps, type = "l",
      xlab = "Interval", ylab = "Avg. Steps by Interval")
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
+![](https://github.com/Ansola/RepData_PeerAssessment1/blob/master/unnamed-chunk-5-1.png?raw=true)<!-- -->
 
 ### 5. Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
