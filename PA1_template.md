@@ -126,7 +126,7 @@ steps_per_day2 <- aggregate(steps ~ date, data = activity2, FUN = sum)
 barplot(steps_per_day2$steps, names.arg = steps_per_day2$date)
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-10-1.png)<!-- -->
+![](https://github.com/Ansola/RepData_PeerAssessment1/blob/master/unnamed-chunk-10-1.png?raw=true)<!-- -->
 
 ```r
 mean(steps_per_day2$steps)
